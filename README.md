@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Antoan Matein - @2inkie.
+- 👀 I’m interested in Quantitative Research.
+- 🌱 I have a strong knowledge in Python and C++ related to ML, Signal Processing and Alpha Researcha and I am constantly imporving my skills in these fields.
+- 📫 You can reach me on [LinkedIn Profile](https://www.linkedin.com/in/antoan-matein-051071278)
+
+<!---
+2inkie/2inkie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
